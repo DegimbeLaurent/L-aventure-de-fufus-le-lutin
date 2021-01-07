@@ -15,6 +15,6 @@
 #### vous pouvez imbriquer les listes à puces
 	-* Une puce
 	-* Une autre puce
-    	-   * Une sous-puce
-    	-   * Une autre sous-puce
+    	-* Une sous-puce
+    	-* Une autre sous-puce
 	-* Et encore une autre puce !
