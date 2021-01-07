@@ -1,18 +1,18 @@
 # L-aventure-de-fufus-le-lutin
 
-##les listes à puces et les listes numérotées.
+## les listes à puces et les listes numérotées
 
-###Les listes à puces
+### Les listes à puces
 	* Une puce
 	* Une autre puce
 	* Et encore une autre puce !
 
-###les listes numérotées
+### les listes numérotées
 	1. Et de un
 	2. Et de deux
 	3. Et de trois
 
-####vous pouvez imbriquer les listes à puces
+#### vous pouvez imbriquer les listes à puces
 	-* Une puce
 	-* Une autre puce
     	-  * Une sous-puce
