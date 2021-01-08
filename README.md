@@ -2,7 +2,7 @@
 
 _Les portes de l'avenir sont ouvertes à ceux qui savent les pousser_
 
-![photo de profil linkedin](https://media-exp1.licdn.com/dms/image/C4E03AQEalU7s7xjziA/profile-displayphoto-shrink_200_200/0/1610054503683?e=1615420800&v=beta&t=6evoxqC2CnWR0CMgnaGwJkWOFEJ9t_Av7ml80OXETXU)
+
 
 
 
@@ -16,7 +16,7 @@ Birthday                |      16/03/2021
 Gender                  |      Male       
 Favorite color          |      Red    
 Favorite food           |      Sushi  
-Pinneapple on pizza     |    - [x] Yes - [ ] No
+Pinneapple on pizza     |    
 
 
 
@@ -41,7 +41,7 @@ Pinneapple on pizza     |    - [x] Yes - [ ] No
 ### Vacance de rêve 
 
 
-<< previous || HANNECART Loïc || next >>
+<< previous || HANNECART Loic || next >>
 
 
 
